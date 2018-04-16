@@ -1,0 +1,114 @@
+lugar,referencia,puertas,tipocaja,combustible,precio,direccion,nombre
+ México,Sport LS Aut, 5, Hidraúlicos, 6,"$80,000,000", ,CHEVROLET Captiva 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ China,2 sedan, 4, ABS + EBD, 5,"$37,490,000", Asistida Hidráulicamente,CHERY Fulwin 2018
+ Brasil,Longitude AWD, 5, Hidráulicos asistidos por vacío, 9,"$109,500,000", Asistida Eléctricamente,Jeep Renegade 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ Brasil,Highline 2.0 4x4 Aut Dob Cab Platón, 5, Hidraúlicos, 8,"$132,990,000", ,Volkswagen Amarok 2018
+ Corea del Sur,2.0 F.E. 4x2 Diésel Aut, 5, 6, 16,"$94,900,000", Asistida Hidráulicamente,SSANGYONG Korando C 2018
+ Corea del Sur,XLV 4x2 1.6 F.E. Aut, 5, 6, Automática,"$77,900,000", Asistida,SSANGYONG Tivoli 2018
+ Corea del Sur,XLV 4x2 1.6 F.E., 5, 6, Automática,"$69,900,000", Asistida,SSANGYONG Tivoli 2018
+ ,T6 2.0 4x2, Asistida Hidráulicamente, 16, Mecánica,"$96,990,000", 6,Volkswagen Transporter 2018
+ Corea del Sur,4x2 Aut, 6, 126, 5,"$72,900,000", 16,SSANGYONG Tivoli 2018
+ Estados Unidos,Unlimited Sport Automatico, 4, Hidráulicos, 5,"$169,990,000", ,Jeep Wrangler 2018
+ China,1.6 D.H. A.A, 5, Hidráulicos ABS+EBD, 5,"$50,990,000", Asistida Hidráulicamente,CHERY Tiggo 2018
+ Corea del Sur,2.0 F.E. Aut, , Hidraúlicos, 6,"$105,900,000", ,SSANGYONG New Actyon Sports 2018
+ ,2.0 4x2 FE, Asistida Hidráulicamente, 17, Mecánica,"$68,990,000", 5,CHERY Grand Tiggo 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Mecánica, Diesel,"$99,900,000", ,SSANGYONG Rodius 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2 Aut, 5, Automática, Diesel,"$108,900,000", ,SSANGYONG Rodius 2018
+ ,Sense, Asistida Eléctricamente, 15, Mecánica,"$38,990,000", 5,NISSAN March 2019
+ México,Sport LT 3.0 Aut, 5, Hidráulicos ABS+EBD, 6,"$90,300,000", Asistida Hidráulicamente,CHEVROLET Captiva 2018
+ Colombia,MCM LT Aut, 5, Automática, Gasolina,"$74,570,000", ,CHEVROLET Tracker 2018
+ Colombia,MCM AWD LTZ, 5, Automática, Gasolina,"$80,750,000", ,CHEVROLET Tracker 2018
+ Tailandia,MCM LTZ Aut, 5, Hidráulicos ABS + EBD, 6,"$168,350,000", ,CHEVROLET Trail Blazer 2018
+ Colombia,MCM LS Aut, Hidraúlicos, 138/6.200," 1,796","$70,250,000", 6,CHEVROLET Tracker 2018
+ Colombia,MCM LS, Hidraúlicos, 16, 138/6.200,"$67,150,000", 5,CHEVROLET Tracker 2018
+ ,High Country, 20, 8, V 6,"$170,210,000", 310,CHEVROLET Traverse 2018
+lugar,referencia,puertas,tipocaja,combustible,precio,direccion,nombre
+ México,Sport LS Aut, 5, Hidraúlicos, 6,"$80,000,000", ,CHEVROLET Captiva 2018
+ Colombia,MCM LS Aut, Hidraúlicos, 138/6.200," 1,796","$70,250,000", 6,CHEVROLET Tracker 2018
+ Colombia,MCM LS, Hidraúlicos, 16, 138/6.200,"$67,150,000", 5,CHEVROLET Tracker 2018
+ ,High Country, 20, 8, V 6,"$170,210,000", 310,CHEVROLET Traverse 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ China,2 sedan, 4, ABS + EBD, 5,"$37,490,000", Asistida Hidráulicamente,CHERY Fulwin 2018
+ Brasil,Longitude AWD, 5, Hidráulicos asistidos por vacío, 9,"$109,500,000", Asistida Eléctricamente,Jeep Renegade 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ Brasil,Highline 2.0 4x4 Aut Dob Cab Platón, 5, Hidraúlicos, 8,"$132,990,000", ,Volkswagen Amarok 2018
+ Corea del Sur,2.0 F.E. 4x2 Diésel Aut, 5, 6, 16,"$94,900,000", Asistida Hidráulicamente,SSANGYONG Korando C 2018
+ Corea del Sur,XLV 4x2 1.6 F.E. Aut, 5, 6, Automática,"$77,900,000", Asistida,SSANGYONG Tivoli 2018
+ Corea del Sur,XLV 4x2 1.6 F.E., 5, 6, Automática,"$69,900,000", Asistida,SSANGYONG Tivoli 2018
+ ,T6 2.0 4x2, Asistida Hidráulicamente, 16, Mecánica,"$96,990,000", 6,Volkswagen Transporter 2018
+ Corea del Sur,4x2 Aut, 6, 126, 5,"$72,900,000", 16,SSANGYONG Tivoli 2018
+ Estados Unidos,Unlimited Sport Automatico, 4, Hidráulicos, 5,"$169,990,000", ,Jeep Wrangler 2018
+ China,1.6 D.H. A.A, 5, Hidráulicos ABS+EBD, 5,"$50,990,000", Asistida Hidráulicamente,CHERY Tiggo 2018
+ Corea del Sur,2.0 F.E. Aut, , Hidraúlicos, 6,"$105,900,000", ,SSANGYONG New Actyon Sports 2018
+lugar,referencia,puertas,tipocaja,combustible,precio,direccion,nombre
+ México,Sport LS Aut, 5, Hidraúlicos, 6,"$80,000,000", ,CHEVROLET Captiva 2018
+ Colombia,MCM LS Aut, Hidraúlicos, 138/6.200," 1,796","$70,250,000", 6,CHEVROLET Tracker 2018
+ Colombia,MCM LS, Hidraúlicos, 16, 138/6.200,"$67,150,000", 5,CHEVROLET Tracker 2018
+ ,High Country, 20, 8, V 6,"$170,210,000", 310,CHEVROLET Traverse 2018
+lugar,referencia,puertas,tipocaja,combustible,precio,direccion,nombre
+ México,Sport LS Aut, 5, Hidraúlicos, 6,"$80,000,000", ,CHEVROLET Captiva 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ China,2 sedan, 4, ABS + EBD, 5,"$37,490,000", Asistida Hidráulicamente,CHERY Fulwin 2018
+ Brasil,Longitude AWD, 5, Hidráulicos asistidos por vacío, 9,"$109,500,000", Asistida Eléctricamente,Jeep Renegade 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ Brasil,Highline 2.0 4x4 Aut Dob Cab Platón, 5, Hidraúlicos, 8,"$132,990,000", ,Volkswagen Amarok 2018
+ Corea del Sur,2.0 F.E. 4x2 Diésel Aut, 5, 6, 16,"$94,900,000", Asistida Hidráulicamente,SSANGYONG Korando C 2018
+ Corea del Sur,XLV 4x2 1.6 F.E. Aut, 5, 6, Automática,"$77,900,000", Asistida,SSANGYONG Tivoli 2018
+ Corea del Sur,XLV 4x2 1.6 F.E., 5, 6, Automática,"$69,900,000", Asistida,SSANGYONG Tivoli 2018
+ ,T6 2.0 4x2, Asistida Hidráulicamente, 16, Mecánica,"$96,990,000", 6,Volkswagen Transporter 2018
+ Corea del Sur,4x2 Aut, 6, 126, 5,"$72,900,000", 16,SSANGYONG Tivoli 2018
+ Estados Unidos,Unlimited Sport Automatico, 4, Hidráulicos, 5,"$169,990,000", ,Jeep Wrangler 2018
+ China,1.6 D.H. A.A, 5, Hidráulicos ABS+EBD, 5,"$50,990,000", Asistida Hidráulicamente,CHERY Tiggo 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ China,2 sedan, 4, ABS + EBD, 5,"$37,490,000", Asistida Hidráulicamente,CHERY Fulwin 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ China,2 sedan, 4, ABS + EBD, 5,"$37,490,000", Asistida Hidráulicamente,CHERY Fulwin 2018
+ Brasil,Longitude AWD, 5, Hidráulicos asistidos por vacío, 9,"$109,500,000", Asistida Eléctricamente,Jeep Renegade 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ Brasil,Highline 2.0 4x4 Aut Dob Cab Platón, 5, Hidraúlicos, 8,"$132,990,000", ,Volkswagen Amarok 2018
+ Corea del Sur,2.0 F.E. 4x2 Diésel Aut, 5, 6, 16,"$94,900,000", Asistida Hidráulicamente,SSANGYONG Korando C 2018
+ Corea del Sur,XLV 4x2 1.6 F.E. Aut, 5, 6, Automática,"$77,900,000", Asistida,SSANGYONG Tivoli 2018
+ Corea del Sur,XLV 4x2 1.6 F.E., 5, 6, Automática,"$69,900,000", Asistida,SSANGYONG Tivoli 2018
+ ,T6 2.0 4x2, Asistida Hidráulicamente, 16, Mecánica,"$96,990,000", 6,Volkswagen Transporter 2018
+ Corea del Sur,4x2 Aut, 6, 126, 5,"$72,900,000", 16,SSANGYONG Tivoli 2018
+ Estados Unidos,Unlimited Sport Automatico, 4, Hidráulicos, 5,"$169,990,000", ,Jeep Wrangler 2018
+ China,1.6 D.H. A.A, 5, Hidráulicos ABS+EBD, 5,"$50,990,000", Asistida Hidráulicamente,CHERY Tiggo 2018
+ Corea del Sur,2.0 F.E. Aut, , Hidraúlicos, 6,"$105,900,000", ,SSANGYONG New Actyon Sports 2018
+ ,2.0 4x2 FE, Asistida Hidráulicamente, 17, Mecánica,"$68,990,000", 5,CHERY Grand Tiggo 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Mecánica, Diesel,"$99,900,000", ,SSANGYONG Rodius 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2 Aut, 5, Automática, Diesel,"$108,900,000", ,SSANGYONG Rodius 2018
+ ,Sense, Asistida Eléctricamente, 15, Mecánica,"$38,990,000", 5,NISSAN March 2019
+ México,Sport LT 3.0 Aut, 5, Hidráulicos ABS+EBD, 6,"$90,300,000", Asistida Hidráulicamente,CHEVROLET Captiva 2018
+ Colombia,MCM LT Aut, 5, Automática, Gasolina,"$74,570,000", ,CHEVROLET Tracker 2018
+ Colombia,MCM AWD LTZ, 5, Automática, Gasolina,"$80,750,000", ,CHEVROLET Tracker 2018
+ Tailandia,MCM LTZ Aut, 5, Hidráulicos ABS + EBD, 6,"$168,350,000", ,CHEVROLET Trail Blazer 2018
+lugar,referencia,puertas,tipocaja,combustible,precio,direccion,nombre
+ México,Sport LS Aut, 5, Hidraúlicos, 6,"$80,000,000", ,CHEVROLET Captiva 2018
+ Corea del Sur,2.0 F.E. 4x2 Aut, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ China,2 sedan, 4, ABS + EBD, 5,"$37,490,000", Asistida Hidráulicamente,CHERY Fulwin 2018
+ Brasil,Longitude AWD, 5, Hidráulicos asistidos por vacío, 9,"$109,500,000", Asistida Eléctricamente,Jeep Renegade 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Hidráulicos, 6,"$86,900,000", ,SSANGYONG New Korando C 2018
+ Brasil,Highline 2.0 4x4 Aut Dob Cab Platón, 5, Hidraúlicos, 8,"$132,990,000", ,Volkswagen Amarok 2018
+ Corea del Sur,2.0 F.E. 4x2 Diésel Aut, 5, 6, 16,"$94,900,000", Asistida Hidráulicamente,SSANGYONG Korando C 2018
+ Corea del Sur,XLV 4x2 1.6 F.E. Aut, 5, 6, Automática,"$77,900,000", Asistida,SSANGYONG Tivoli 2018
+ Corea del Sur,XLV 4x2 1.6 F.E., 5, 6, Automática,"$69,900,000", Asistida,SSANGYONG Tivoli 2018
+ ,T6 2.0 4x2, Asistida Hidráulicamente, 16, Mecánica,"$96,990,000", 6,Volkswagen Transporter 2018
+ Corea del Sur,4x2 Aut, 6, 126, 5,"$72,900,000", 16,SSANGYONG Tivoli 2018
+ Estados Unidos,Unlimited Sport Automatico, 4, Hidráulicos, 5,"$169,990,000", ,Jeep Wrangler 2018
+ China,1.6 D.H. A.A, 5, Hidráulicos ABS+EBD, 5,"$50,990,000", Asistida Hidráulicamente,CHERY Tiggo 2018
+ Corea del Sur,2.0 F.E. Aut, , Hidraúlicos, 6,"$105,900,000", ,SSANGYONG New Actyon Sports 2018
+ ,2.0 4x2 FE, Asistida Hidráulicamente, 17, Mecánica,"$68,990,000", 5,CHERY Grand Tiggo 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2, 5, Mecánica, Diesel,"$99,900,000", ,SSANGYONG Rodius 2018
+ Corea del Sur,Diesel 2.0 F.E. 4x2 Aut, 5, Automática, Diesel,"$108,900,000", ,SSANGYONG Rodius 2018
+ ,Sense, Asistida Eléctricamente, 15, Mecánica,"$38,990,000", 5,NISSAN March 2019
+ México,Sport LT 3.0 Aut, 5, Hidráulicos ABS+EBD, 6,"$90,300,000", Asistida Hidráulicamente,CHEVROLET Captiva 2018
+ Colombia,MCM LT Aut, 5, Automática, Gasolina,"$74,570,000", ,CHEVROLET Tracker 2018
+ Colombia,MCM AWD LTZ, 5, Automática, Gasolina,"$80,750,000", ,CHEVROLET Tracker 2018
+ Tailandia,MCM LTZ Aut, 5, Hidráulicos ABS + EBD, 6,"$168,350,000", ,CHEVROLET Trail Blazer 2018
+ Colombia,MCM LS Aut, Hidraúlicos, 138/6.200," 1,796","$70,250,000", 6,CHEVROLET Tracker 2018
+ Colombia,MCM LS, Hidraúlicos, 16, 138/6.200,"$67,150,000", 5,CHEVROLET Tracker 2018
+ ,High Country, 20, 8, V 6,"$170,210,000", 310,CHEVROLET Traverse 2018
