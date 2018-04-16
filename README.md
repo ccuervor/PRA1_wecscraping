@@ -13,3 +13,10 @@ Todos estos archivos deben ser guardados dentro de un mismo repositoria para su 
 
 # Archivos relacionados:
 Dentro de este mismo repositorio se encuentra un archivo en PDF donde se indica: Objetivos del dataset, campos que incluye y contexto. Así mismo, se encuentra el archivo de datos carro.csv dentro de la carpeta webscraping.
+
+# Consideraciones Adicionales:
+Como se comentó anteriormente, todos los archivos de la carpeta webscraping y el archivo .CFG deben ser guardados en un mismo repositorio. Así mismo para correr el programa se debe hacer desde consola desde el directorio donde se encuentra el repositorio con todos los archivos descargados: 
+
+$scrapy crawl carroya -o carro.csv -t csv
+
+Con esta instrucción se está indicando que se corra el crawl lladado carroya, que se guarde el resultado en un archivo llamado carro.csv y que el formato del archivo sea csv.
