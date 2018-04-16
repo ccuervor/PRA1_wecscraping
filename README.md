@@ -12,4 +12,4 @@ Así mismo fuera de la carpeta webscraping se encuentra el fichero scrapy.CFG , 
 Todos estos archivos deben ser guardados dentro de un mismo repositoria para su correcta ejecución.
 
 # Archivos relacionados:
-Dentro de este mismo repositorio se encuentra un archivo en PDF donde se indica: Objetivos del dataset, campos que incluye y contexto. Así mismo, se encuentra el archivo de datos carro.csv dentro webscraping.
+Dentro de este mismo repositorio se encuentra un archivo en PDF donde se indica: Objetivos del dataset, campos que incluye y contexto. Así mismo, se encuentra el archivo de datos carro.csv dentro de la carpeta webscraping.
